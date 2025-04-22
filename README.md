@@ -180,7 +180,13 @@ In potsman press [ctrl + O], then drop or select file. choose `Inventory.postman
 
 ## 🔗 Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2025-04-22 175508](https://github.com/user-attachments/assets/9e46c093-57f9-4d04-8fec-80f8a4288863)
+
+![Screenshot 2025-04-22 175547](https://github.com/user-attachments/assets/91bdb41b-f187-41a2-800a-8d28336ca61b)
+
+![Screenshot 2025-04-22 175622](https://github.com/user-attachments/assets/ef79573c-c93f-4d52-8333-25ad252ef07f)
+
+![Screenshot 2025-04-22 175659](https://github.com/user-attachments/assets/26468a71-951a-466b-aed7-adc433dfa5d5)
 
 
 ## 🔗 License
