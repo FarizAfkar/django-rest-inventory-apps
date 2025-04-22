@@ -16,7 +16,7 @@ class InventoryCreate(serializers.ModelSerializer):
         model = Inventory
         fields = [
             'name', 'quantity', 'serial_number', 'additional_info',
-            'image', 'created_by', 'updated_by'
+            'image', 'created_by',
         ]
 
     def validate_image(self, image):
